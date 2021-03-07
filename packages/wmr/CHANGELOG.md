@@ -1,5 +1,11 @@
 # wmr
 
+## 1.4.0
+
+### Minor Changes
+
+- [`111c1be`](https://github.com/preactjs/wmr/commit/111c1be36cc27428df72d4e73964157c90218d82) [#389](https://github.com/preactjs/wmr/pull/389) Thanks [@JoviDeCroock](https://github.com/JoviDeCroock)! - Use resolve.exports for export map resolving in the npm-plugin
+
 ## 1.3.2
 
 ### Patch Changes
